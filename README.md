@@ -222,7 +222,13 @@ function App() {
 8. useSelector wale Todos component ne naya state dekha → re-render hua
 9. Screen par "Buy Milk" dikha
 ```
+### 🔹 Reducers
+functions that define how the state gets updated
+
+### 🔹 Slices
+feature-based sections of the application state.
 
 ---
 
 > 💡 **RTK internally Immer.js use karta hai** — isliye state ko directly mutate kar sakte ho (`push`, `filter` etc.) bina spread operator ke. Yeh sirf reducers ke andar safe hai.
+Note -
