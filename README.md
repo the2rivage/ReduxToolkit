@@ -17,6 +17,8 @@ UI (Component) → dispatch(action) → Reducer → Store (State) → UI Update
 > User kuch karta hai → dispatch hota hai → reducer state badalta hai → UI reflect karta hai
 
 ---
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/a6fcd305-425b-48e9-80e7-cd34c623b686" />
+
 
 ## 🧱 Teen Main Cheezein
 
