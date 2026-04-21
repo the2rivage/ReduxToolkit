@@ -9,6 +9,7 @@ Redux ka **official, simplified version**. Iska kaam hai **global state manage**
 ---
 
 ## 🔄 Data Flow (ek hi direction mein chalta hai)
+<img width="828" height="367" alt="image" src="https://github.com/user-attachments/assets/28200640-61e7-4bea-ace1-6d5539f8a397" />
 
 ```
 UI (Component) → dispatch(action) → Reducer → Store (State) → UI Update
